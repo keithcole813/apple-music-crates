@@ -98,13 +98,6 @@
   "found": 14
  },
  {
-  "name": "setups%%trina kentheman.crate",
-  "pretty": "Setups \u2192 Trina Kentheman",
-  "slug": "setups-trina-kentheman",
-  "tracks": 2,
-  "found": 1
- },
- {
   "name": "CARIBEAN PARTY%%REGGAE WEDNESDAY%%VIRAL DANCEHALL.crate",
   "pretty": "Caribean Party \u2192 Reggae Wednesday \u2192 Viral Dancehall",
   "slug": "caribean-party-reggae-wednesday-viral-dancehall",
@@ -147,39 +140,11 @@
   "found": 5
  },
  {
-  "name": "setups%%city girls outkast intl players.crate",
-  "pretty": "Setups \u2192 City Girls Outkast Intl Players",
-  "slug": "setups-city-girls-outkast-intl-players",
-  "tracks": 2,
-  "found": 0
- },
- {
-  "name": "CARIBEAN PARTY%%REGGAE WEDNESDAY%%2020s RIDDIMS%%dutty money riddim.crate",
-  "pretty": "Caribean Party \u2192 Reggae Wednesday \u2192 2020S Riddims \u2192 Dutty Money Riddim",
-  "slug": "caribean-party-reggae-wednesday-2020s-riddims-dutty-money-riddim",
-  "tracks": 2,
-  "found": 0
- },
- {
   "name": "HOUSE MUSIC%%neo house set.crate",
   "pretty": "House Music \u2192 Neo House Set",
   "slug": "house-music-neo-house-set",
   "tracks": 34,
   "found": 16
- },
- {
-  "name": "setups%%rodeo.crate",
-  "pretty": "Setups \u2192 Rodeo",
-  "slug": "setups-rodeo",
-  "tracks": 2,
-  "found": 2
- },
- {
-  "name": "setups%%lil vada usher.crate",
-  "pretty": "Setups \u2192 Lil Vada Usher",
-  "slug": "setups-lil-vada-usher",
-  "tracks": 2,
-  "found": 1
  },
  {
   "name": "CARIBEAN PARTY%%soca%%viral soca.crate",
@@ -208,20 +173,6 @@
   "slug": "party-classics-classic-11-cook-out-5",
   "tracks": 13,
   "found": 11
- },
- {
-  "name": "setups%%too short tap in.crate",
-  "pretty": "Setups \u2192 Too Short Tap In",
-  "slug": "setups-too-short-tap-in",
-  "tracks": 2,
-  "found": 2
- },
- {
-  "name": "setups.crate",
-  "pretty": "Setups",
-  "slug": "setups",
-  "tracks": 2,
-  "found": 2
  },
  {
   "name": "R&B%%TRAPSOUL.crate",
@@ -278,20 +229,6 @@
   "slug": "now-thats-what-i-call-christmas",
   "tracks": 3,
   "found": 3
- },
- {
-  "name": "CARIBEAN PARTY%%REGGAE WEDNESDAY%%ROOTS%%HARDTIMES RIDDIM.crate",
-  "pretty": "Caribean Party \u2192 Reggae Wednesday \u2192 Roots \u2192 Hardtimes Riddim",
-  "slug": "caribean-party-reggae-wednesday-roots-hardtimes-riddim",
-  "tracks": 2,
-  "found": 2
- },
- {
-  "name": "setups%%BEFORE I LET GO.crate",
-  "pretty": "Setups \u2192 Before I Let Go",
-  "slug": "setups-before-i-let-go",
-  "tracks": 2,
-  "found": 2
  },
  {
   "name": "DRILL PARTY%%2ND QTR TRAP%%2nd qtr trap 3.crate",
@@ -385,39 +322,11 @@
   "found": 22
  },
  {
-  "name": "setups%%MO3 AALIYAH.crate",
-  "pretty": "Setups \u2192 Mo3 Aaliyah",
-  "slug": "setups-mo3-aaliyah",
-  "tracks": 2,
-  "found": 1
- },
- {
-  "name": "DRILL PARTY%%2ND QTR TRAP%%2nd qtr trap 5.crate",
-  "pretty": "Drill Party \u2192 2Nd Qtr Trap \u2192 2Nd Qtr Trap 5",
-  "slug": "drill-party-2nd-qtr-trap-2nd-qtr-trap-5",
-  "tracks": 2,
-  "found": 1
- },
- {
   "name": "samples.crate",
   "pretty": "Samples",
   "slug": "samples",
   "tracks": 3,
   "found": 3
- },
- {
-  "name": "CARIBEAN PARTY%%REGGAE WEDNESDAY%%90S RIDDIMS%%BAM BAM RIDDIM.crate",
-  "pretty": "Caribean Party \u2192 Reggae Wednesday \u2192 90S Riddims \u2192 Bam Bam Riddim",
-  "slug": "caribean-party-reggae-wednesday-90s-riddims-bam-bam-riddim",
-  "tracks": 2,
-  "found": 2
- },
- {
-  "name": "CARIBEAN PARTY%%REGGAE WEDNESDAY%%2000s RIDDIMS%%DROPLEAF RIDDIM.crate",
-  "pretty": "Caribean Party \u2192 Reggae Wednesday \u2192 2000S Riddims \u2192 Dropleaf Riddim",
-  "slug": "caribean-party-reggae-wednesday-2000s-riddims-dropleaf-riddim",
-  "tracks": 2,
-  "found": 2
  },
  {
   "name": "PARTY CLASSICS%%CLASSICS 5 2000S SOUTH%%snap ya fingas.crate",
@@ -434,13 +343,6 @@
   "found": 1
  },
  {
-  "name": "CARIBEAN PARTY%%REGGAE WEDNESDAY%%2000s RIDDIMS%%GHETTO STORY RIDDIM.crate",
-  "pretty": "Caribean Party \u2192 Reggae Wednesday \u2192 2000S Riddims \u2192 Ghetto Story Riddim",
-  "slug": "caribean-party-reggae-wednesday-2000s-riddims-ghetto-story-riddim",
-  "tracks": 2,
-  "found": 2
- },
- {
   "name": "CARIBEAN PARTY%%REGGAE WEDNESDAY.crate",
   "pretty": "Caribean Party \u2192 Reggae Wednesday",
   "slug": "caribean-party-reggae-wednesday",
@@ -453,13 +355,6 @@
   "slug": "closing-time",
   "tracks": 4,
   "found": 4
- },
- {
-  "name": "CARIBEAN PARTY%%REGGAE WEDNESDAY%%2000s RIDDIMS%%BUZZ RIDDIM.crate",
-  "pretty": "Caribean Party \u2192 Reggae Wednesday \u2192 2000S Riddims \u2192 Buzz Riddim",
-  "slug": "caribean-party-reggae-wednesday-2000s-riddims-buzz-riddim",
-  "tracks": 2,
-  "found": 2
  },
  {
   "name": "DRILL PARTY%%2ND QTR TRAP%%2nd qtr trap 2.crate",
@@ -488,13 +383,6 @@
   "slug": "champagne-hour-champagne-hour-3-2010s",
   "tracks": 39,
   "found": 30
- },
- {
-  "name": "setups%%pass the marijane.crate",
-  "pretty": "Setups \u2192 Pass The Marijane",
-  "slug": "setups-pass-the-marijane",
-  "tracks": 2,
-  "found": 0
  },
  {
   "name": "DANCE PARTY%%dance party 3 2000S.crate",
@@ -553,13 +441,6 @@
   "found": 35
  },
  {
-  "name": "setups%%toliver mya beenie man.crate",
-  "pretty": "Setups \u2192 Toliver Mya Beenie Man",
-  "slug": "setups-toliver-mya-beenie-man",
-  "tracks": 2,
-  "found": 2
- },
- {
   "name": "setups%%nelly nle erica.crate",
   "pretty": "Setups \u2192 Nelly Nle Erica",
   "slug": "setups-nelly-nle-erica",
@@ -572,13 +453,6 @@
   "slug": "champagne-hour",
   "tracks": 128,
   "found": 20
- },
- {
-  "name": "R&B.crate",
-  "pretty": "R&B",
-  "slug": "r-b",
-  "tracks": 2,
-  "found": 1
  },
  {
   "name": "DRILL PARTY%%Trap Shit%%trap shit 5.crate",
